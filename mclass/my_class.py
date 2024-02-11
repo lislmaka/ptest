@@ -8,3 +8,6 @@ class andrey:
 
     def test(self):
         print("Hello my name is " + self.name)
+
+    def test2(self):
+        print("Hello my name is " + self.name)
