@@ -5,3 +5,6 @@ class andrey:
 
     def myfunc(self):
         print("Hello my name is " + self.name)
+
+    def test(self):
+        print("Hello my name is " + self.name)

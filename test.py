@@ -1,3 +1,6 @@
-import math
+# import mclass.my_class as an
+from mclass.my_class import andrey as an
 
-print(math.pi)
+if __name__ == '__main__':
+    obj = an()
+    obj.myfunc()
